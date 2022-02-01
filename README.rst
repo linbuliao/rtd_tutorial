@@ -1,6 +1,6 @@
 .. image:: https://readthedocs.org/projects/linbuliao-rtd-tutorial/badge/?version=stable
-:target: https://linbuliao-rtd-tutorial.readthedocs.io/en/stable/?badge=stable
-:alt: Documentation Status
+    :target: https://linbuliao-rtd-tutorial.readthedocs.io/en/stable/?badge=stable
+    :alt: Documentation Status
 
 Template for the Read the Docs tutorial
 =======================================
