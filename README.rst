@@ -1,5 +1,6 @@
+|Test| |test|
 .. raw:: markdown
-    [![Documentation Status](https://readthedocs.org/projects/linbuliao-rtd-tutorial/badge/?version=stable)](https://linbuliao-rtd-tutorial.readthedocs.io/en/stable/?badge=stable)
+    |test| [![Documentation Status](https://readthedocs.org/projects/linbuliao-rtd-tutorial/badge/?version=stable)](https://linbuliao-rtd-tutorial.readthedocs.io/en/stable/?badge=stable)
 
 .. |Test| image:: https://readthedocs.org/projects/linbuliao-rtd-tutorial/badge/?version=stable
     :target: https://linbuliao-rtd-tutorial.readthedocs.io/en/stable/?badge=stable
