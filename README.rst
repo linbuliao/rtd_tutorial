@@ -1,4 +1,5 @@
 .. raw:: markdown
+
 [![Documentation Status](https://readthedocs.org/projects/linbuliao-rtd-tutorial/badge/?version=stable)](https://linbuliao-rtd-tutorial.readthedocs.io/en/stable/?badge=stable)
 
 Template for the Read the Docs tutorial
