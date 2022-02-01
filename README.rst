@@ -1,6 +1,6 @@
 |Test| 
 
-.. image:: markdown
+.. raw:: markdown
     [![Documentation Status](https://readthedocs.org/projects/linbuliao-rtd-tutorial/badge/?version=stable)](https://linbuliao-rtd-tutorial.readthedocs.io/en/stable/?badge=stable)
 
 .. |Test| image:: https://readthedocs.org/projects/linbuliao-rtd-tutorial/badge/?version=stable
